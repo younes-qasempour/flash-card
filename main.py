@@ -3,8 +3,7 @@ import pandas as pd
 import random
 
 BACKGROUND_COLOR = "#B1DDC6"
-
-#--------------------------------------NEXT CARD----------------------------------------#
+#--------------------------------------FUNCTIONALITY----------------------------------------#
 data = pd.DataFrame()
 current_card = {}
 to_learn = {}
